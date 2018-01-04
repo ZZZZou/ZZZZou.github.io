@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Wang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/600x600.jpg"
   bio              : "iOS程序猿，正在学习ruby"
   location         : "深圳"
   email            : "laowangZzzzz@gmail.com"
