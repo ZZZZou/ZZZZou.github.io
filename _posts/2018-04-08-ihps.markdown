@@ -1,0 +1,7 @@
+---
+title:  "Test"
+date:   2018-04-03 22:41:22 +0800
+categories: ios 
+---
+
+<a href="itms-services://?action=download-manifest&url=/assets/file/manifest.plist" id="text">Install the In-House App</a> 

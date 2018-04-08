@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Wang's Site"
 title_separator          : "-"
 name                     : "Wang"
-description              : "随便写写"
+description              : "随笔"
 url                      : "https://zzzzou.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ZZZZou/ZZZZou.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Wang"
   avatar           : "/assets/images/600x600.jpg"
-  bio              : "iOS程序猿，正在学习ruby"
+  bio              : "程序猿"
   location         : "深圳"
   email            : "laowangZzzzz@gmail.com"
   uri              :
@@ -180,7 +180,7 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /blog/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
